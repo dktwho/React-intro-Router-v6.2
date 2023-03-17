@@ -2,6 +2,11 @@
   text-align: center;
 }
 
+.active {
+  color: blue;
+  text-decoration: none;
+}
+
 nav a {
   margin: 15px;
 }
