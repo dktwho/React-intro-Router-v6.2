@@ -2,10 +2,19 @@
   text-align: center;
 }
 
+/* example with useDefault class active NavLink
 .active {
   color: blue;
   text-decoration: none;
 }
+*/
+
+.activeLink {
+  color: blue;
+  text-decoration: none;
+}
+
+
 
 nav a {
   margin: 15px;
