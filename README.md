@@ -1,3 +1,15 @@
+# Содержание
+
+Введение в react-router v6
+Использование компонентов BrowserRouter, Routes, Route, Link, NavLink, Outlet.
+
+В истории коммитах рефакторинг с абсолютных ссылок на относительные.
+В истории коммитах также использовано 3 варианта стилизации ссылок:
+
+1. Использование селектора по классу active
+2. Стилизация используя свойство className с функцией
+3. Стилизация с использованием свойства style с функцией с возвратом объекта с css правилами.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
